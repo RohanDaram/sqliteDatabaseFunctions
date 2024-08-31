@@ -1,2 +1,2 @@
 # sqliteDatabaseFunctions
-A Python program that creates an in-memory database using sqlite3 to create multiple tables and perform different types of sql queries to obtain and update information within the database. The second part of the program utilizes the requests and BeautifulSoup packages for basic web scraping functions.
+Developed a Python project utilizing the Requests and Beautiful Soup libraries for web scraping. The project allows users to input a URL and retrieves relevant information from the specified website, including titles, headers, and body content. The application processes and displays the scraped data.
